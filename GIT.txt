@@ -1,8 +1,6 @@
 
 ﻿--=< GIT GIT GIT >=-- 
 
-develop 11111
-
 Шпаргалка по консольным командам Git => https://github.com/cyberspacedk/Git-commands
 Учебник https://git-scm.com/book/ru/v2
 ---------------------------------------------------------------------------------
