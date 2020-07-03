@@ -1,7 +1,9 @@
 
 ﻿--=< GIT GIT GIT >=-- 
 
-develop 11111
+develop: dev1 dev2
+
+dev1 - do work something 1
 
 Шпаргалка по консольным командам Git => https://github.com/cyberspacedk/Git-commands
 Учебник https://git-scm.com/book/ru/v2
