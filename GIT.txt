@@ -1,8 +1,6 @@
 
 ﻿--=< GIT GIT GIT >=-- 
 
-develop 11111
-
 Шпаргалка по консольным командам Git => https://github.com/cyberspacedk/Git-commands
 Учебник https://git-scm.com/book/ru/v2
 ---------------------------------------------------------------------------------
@@ -160,7 +158,7 @@ git push --set-upstream origin new_branch – выгрузить новую ве
 5) Добавляем индексы новых файлов в систему git чтобы сделать их коммит => git add .   
    (точка указывает на выбор всех добавленных файлов)
 6) Делаем коммит, т.е. говрим что будем коммитеть, но это еще не отправка в удал репозиторий => git commit -m "first commit"
-7) Делаем отправку => git remote add origin https://tfs.eub.kz/USDO_Collection/Gateway.Credilogic/_git/Credilogic.Customer
+7) Делаем отправку => git remote add origin <URL>
 
 ---------------------------------------------------------------------------------
 
