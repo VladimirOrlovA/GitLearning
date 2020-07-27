@@ -29,6 +29,8 @@ git config --global http.sslVerify false
 
 git commit -m "first commit"
 
+git commit -a -m "first commit"  (сразу с добавление изменений, аналогично add)
+
 ---------------------------------------------------------------------------------
 
 ОТМЕНА
