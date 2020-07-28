@@ -4,9 +4,10 @@
 1. [Глава 3](#Link3)
 1. [Глава 4](#Link4)
 1. [Глава 5](#Link5)
+1. [My Great Heading](#custom-id)
 
  
-### __Глава 1__ {#Link1}
+### __Глава 1__<a name="Link1"></a>
 Контент1 контент1 контент1 контент1 контент1 контент1 контент1 контент1
 контент1 контент1 контент1 контент1 контент1 контент1 контент1 контент1
 контент1 контент1 контент1 контент1 контент1 контент1 контент1 контент1
@@ -116,3 +117,9 @@ private List<string> ParseIbans(OracleCommand command)
 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5
 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5
 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5
+
+
+### My Great Heading {#custom-id}
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
