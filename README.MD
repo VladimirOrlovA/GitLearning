@@ -4,7 +4,7 @@
 1. [Глава 3](#Link3)
 1. [Глава 4](#Link4)
 1. [Глава 5](#Link5)
-1. [My Great Heading](#BeeFly)
+1. [My Great Heading](#bee-fly-to-sky)
 
  
 ### __Глава 1__<a name="Link1"></a>
@@ -119,7 +119,7 @@ private List<string> ParseIbans(OracleCommand command)
 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5
 
 
-### BeeFly   
+### Bee Fly to Sky   
 [back](#Оглавление)
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
