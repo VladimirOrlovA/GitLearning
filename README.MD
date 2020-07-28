@@ -40,7 +40,7 @@ _Пример кода XML_
 ```
 
 _Пример кода C#_  
-```csharp
+```ggg
 private List<string> ParseIbans(OracleCommand command)
         {
             var item = new List<string>();
