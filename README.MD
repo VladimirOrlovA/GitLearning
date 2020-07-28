@@ -23,7 +23,7 @@
 
 
 _Пример кода JSON_  
-```JSON
+```json
 { 
    "key1": "value1",
    "key2": "value2",
@@ -32,7 +32,7 @@ _Пример кода JSON_
 ```
 
 _Пример кода XML_  
-```XML
+```xml
 <Teg1>
 	<Item0>810123302133</Item0>
 	<Item1>810123302133</Item1>
@@ -40,7 +40,7 @@ _Пример кода XML_
 ```
 
 _Пример кода C#_  
-```ggg
+```csharp
 private List<string> ParseIbans(OracleCommand command)
         {
             var item = new List<string>();
