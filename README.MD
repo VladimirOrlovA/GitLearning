@@ -119,7 +119,7 @@ private List<string> ParseIbans(OracleCommand command)
 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5 глава5
 
 
-### My Great Heading {#custom-id}
+### My Great Heading [My Great Heading](#custom-id)
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
