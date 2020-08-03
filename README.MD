@@ -1,5 +1,6 @@
-[](#top)
+[Go here from link Up](#top) - _work only in GitHub_        
 
+_work only in Azure_
 [[_TOC_]]
 
 ## Оглавление
@@ -138,7 +139,7 @@ private List<string> ParseIbans(OracleCommand command)
 
 
 ### Bee Fly to Sky   
-[up](#top)<br/>
+[up - work only in GitHub](#top)<br/>
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
