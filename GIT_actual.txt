@@ -179,7 +179,7 @@ git push --set-upstream origin new_branch – выгрузить новую ве
 - проверить на какой ветке в данный момент -> git status
 - переход на ветку master -> git checkout master
 - получить в локальный репозиторий все изменения с удаленного репозиторя -> git fetch origin
-- создать ветку разработки в локальном репозитории c переходом на нее -> git checkout -b feature/esb-299-service-active-iban
+- создать ветку разработки в локальном репозитории c переходом на нее -> git checkout -b feature/ova-001-get-wheather-forecast
 - после разработки сделать добавление файлов -> git add .
 - проверить/получить изменения в удаоенном репозитории -> git fetch origin
 - отправить изменения в удаленный репозиторий -> git push origin 
@@ -193,7 +193,7 @@ git push --set-upstream origin new_branch – выгрузить новую ве
 5) Добавляем индексы новых файлов в систему git чтобы сделать их коммит => git add .   
    (точка указывает на выбор всех добавленных файлов)
 6) Делаем коммит, т.е. говрим что будем коммитеть, но это еще не отправка в удал репозиторий => git commit -m "first commit"
-7) Делаем отправку => git remote add origin https://tfs.eub.kz/USDO_Collection/Gateway.Credilogic/_git/Credilogic.Customer
+7) Делаем отправку => git remote add origin https://xxx.xx
 
 ---------------------------------------------------------------------------------
 
