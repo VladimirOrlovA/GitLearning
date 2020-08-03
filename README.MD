@@ -1,3 +1,4 @@
+[](#top)
 
 [[_TOC_]]
 
@@ -137,7 +138,7 @@ private List<string> ParseIbans(OracleCommand command)
 
 
 ### Bee Fly to Sky   
-[back](#Оглавление)
+[back](#top)
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
