@@ -1,6 +1,10 @@
 
 ﻿--=< GIT GIT GIT >=-- 
 
+<<<<<<< HEAD:GIT_actual.txt
+=======
+
+>>>>>>> develop:GIT.txt
 Шпаргалка по консольным командам Git => https://github.com/cyberspacedk/Git-commands
 Учебник https://git-scm.com/book/ru/v2
 ---------------------------------------------------------------------------------
